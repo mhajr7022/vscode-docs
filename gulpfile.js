@@ -1,4 +1,4 @@
-const gulp = require('gulp')
+ضconst gulp = require('gulp')
 const $ = require('shelljs')
 
 const GITHUB_TOKEN = process.env['GITHUB_TOKEN']

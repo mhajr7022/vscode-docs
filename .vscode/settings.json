@@ -10,5 +10,10 @@
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders"
-    ]
+    ],
+    "cSpell.enableFiletypes": [
+        "!asciidoc",
+        "fsharp"
+    ],
+    "cSpell.language": "lorem,en-US"
 }
